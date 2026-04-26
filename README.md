@@ -1,25 +1,27 @@
-# Hi there, I'm Monish Chezhian 👋
+# Hey, I'm Monish 👋
 
-**Data Analyst | Master of Data Science @ RMIT University | Melbourne, AU**
+**Data Analyst · Melbourne, AU**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monish-chezhian/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chezhianmonish@gmail.com)
 
 ---
 
-## About Me
+## A bit about me
 
-I am a data analyst with a Master of Data Science from RMIT University and 3+ years of experience across web analytics, process automation, and business intelligence. I am passionate about translating complex data into clear, actionable insights that drive decision-making.
+I'm a data analyst based in Melbourne with a Master of Data Science from RMIT. Over the past few years I've worked across web analytics, business intelligence, and process automation — mostly finding ways to turn messy data into something that actually helps people make decisions.
 
-- 🔭 Currently working as a **Web Analyst** at NJM Group (Australian Bollards)
+Right now I'm a Web Analyst at NJM Group, where I look after digital tracking, reporting, and anything data-related across the business. I genuinely enjoy the problem-solving side of this work — whether that's building a dashboard from scratch, cleaning up a broken data pipeline, or figuring out why the numbers aren't adding up.
+
+On the side, I've been digging into machine learning and cloud platforms (AWS, Azure) and exploring how AI tools can plug into real analytics workflows. Always something new to figure out.
+
 - 🎓 Master of Data Science – RMIT University (GPA: 3.4)
-- 📍 Based in **Melbourne, Victoria, Australia**
-- 💼 Open to **Data Analyst / Business Analyst** opportunities
-- 🌱 Exploring advanced ML, cloud platforms (AWS, Azure), and AI-driven analytics
+- 💼 Currently open to **Data Analyst** and **Business Analyst** roles in Melbourne
+- 📍 Based in Melbourne, Victoria, Australia
 
 ---
 
-## Tech Stack
+## What I work with
 
 **Languages & Tools**
 
@@ -38,38 +40,48 @@ I am a data analyst with a Master of Data Science from RMIT University and 3+ ye
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
+**Cloud & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 ---
 
-## Featured Projects
+## Projects I'm proud of
 
 ### 🌾 [Cultivara – Crop Recommendation System](https://github.com/mashcthomson/cultivara-crop-recommendation)
-RMIT Data Science Project | Python, Random Forest, Streamlit
-- Built a crop recommendation model using Random Forests achieving **92% accuracy** across Western Australia regions
-- Led a team of 6 through data engineering, app deployment (Streamlit), and stakeholder testing
-- Delivered actionable agricultural insights for regional farmers
+`Python` `Random Forest` `Streamlit`
+
+Built as part of my RMIT Data Science program. The idea was simple — help farmers in Western Australia figure out what to grow based on soil and climate data. We ended up with a Random Forest model hitting **92% accuracy**, a Streamlit app for farmers to actually use it, and a team of six that I helped coordinate through the whole thing from data wrangling to stakeholder testing. One of those projects where it felt genuinely useful, not just academic.
 
 ### ♻️ [Sustainable Procurement App](https://github.com/mashcthomson/sustainable-procurement-app)
-ACCIONA × RMIT WIL Project | Python, PuLP, Streamlit, Plotly
-- Designed a vendor selection tool using **Python PuLP** to minimize carbon emissions and maximize ESG performance
-- Built an interactive dashboard with Streamlit and Plotly for real-time visual analytics
-- Enabled Excel exports for procurement teams
+`Python` `PuLP` `Streamlit` `Plotly`
 
-### 👁️ [Assistive Technology for Paralyzed Patients](https://github.com/mashcthomson/assistive-eye-movement-tech)
-Capstone Project | Arduino, IR Sensors, Embedded Systems
-- Built a communication system using Arduino and IR sensors enabling paralyzed patients to express phrases via eye movement
-- Demonstrated improved accessibility and lower cost compared to camera-based alternatives
+A Work Integrated Learning project with ACCIONA and RMIT. We built a vendor selection tool using linear programming (Python PuLP) that optimised for both carbon emissions and ESG performance at the same time — not just cost. The interactive Plotly/Streamlit dashboard made it easy for procurement teams to explore trade-offs and export results. Learnt a lot about how sustainability decisions actually get made inside large organisations.
+
+### 👁️ [Assistive Eye Movement Tech](https://github.com/mashcthomson/assistive-eye-movement-tech)
+`Arduino` `IR Sensors` `Embedded Systems`
+
+My capstone project. We built a low-cost communication device for paralyzed patients using Arduino and IR sensors — letting people express phrases through eye movement alone. It worked, it was affordable, and it was one of the most meaningful things I've built. Compared favourably to camera-based systems at a fraction of the cost.
+
+### 🔍 [ADHD Reddit & Medication Analyzer](https://github.com/mashcthomson/adhd-reddit-med-analyzer)
+`Python` `NLP` `Reddit API`
+
+A personal curiosity project — scraping and analyzing Reddit discussions around ADHD medication to identify patterns in how people talk about side effects, dosage, and experience. Good practice in NLP, API integration, and working with unstructured text data.
 
 ---
 
 ## Research
 
-- 🧠 **AI for Alzheimer's Detection** – Deep learning models & chatbot-based screening using multi-modal health data (RMIT, 2024)
-- 🔋 **Vanadium Flow Batteries** – Interactive R dashboards comparing energy efficiency metrics, published on RPubs (RMIT, 2024)
-- 🌿 **AI for Sustainable Energy Materials** – AutoML framework for eco-friendly energy storage material identification (RMIT, 2024)
+A few research projects from my time at RMIT worth mentioning:
+
+- **AI for Alzheimer's Detection** – Deep learning and chatbot-based screening using multi-modal health data (2024)
+- **Vanadium Flow Batteries** – R dashboards comparing energy efficiency metrics, published on RPubs (2024)
+- **AI for Sustainable Energy Materials** – AutoML framework for identifying eco-friendly energy storage materials (2024)
 
 ---
 
-## Experience Highlights
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -78,11 +90,13 @@ Capstone Project | Arduino, IR Sensors, Embedded Systems
 
 ---
 
-## Leadership
+## Outside of work
 
 - 🎵 **Vice President** – RMIT Occasional Choral Society (ROCS), 2024–2025
 - 🎉 **Assistant Event Manager** – RMIT Funkadelics Club, 2024
 
+Not the typical CV bullet points — but running events and leading a choral society taught me more about communication and herding people than most coursework did.
+
 ---
 
-*Available immediately for Melbourne-based opportunities. Feel free to reach out!*
+*Available immediately for Melbourne-based roles. Always happy to chat — feel free to reach out via [LinkedIn](https://www.linkedin.com/in/monish-chezhian/) or [email](mailto:chezhianmonish@gmail.com).*
