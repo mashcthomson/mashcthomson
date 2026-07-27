@@ -41,7 +41,7 @@ A Work Integrated Learning project with ACCIONA and RMIT. We built a vendor sele
 ### [Assistive Eye Movement Tech](https://github.com/mashcthomson/assistive-eye-movement-tech)
 `Arduino` `IR Sensors` `Embedded Systems`
 
-My capstone project: a low-cost communication device for paralyzed patients, built with Arduino and IR sensors, letting people express phrases through eye movement alone. It worked, it was affordable, and it compared favourably to camera-based systems at a fraction of the cost. One of the most meaningful things I've built.
+My undergraduate capstone at Sri Sairam Engineering College, Chennai: a low-cost communication device for paralyzed patients, built with Arduino and IR sensors, letting people express phrases through eye movement alone. It worked, it was affordable, and it compared favourably to camera-based systems at a fraction of the cost. One of the most meaningful things I've built.
 
 ### [ADHD Reddit & Medication Analyzer](https://github.com/mashcthomson/adhd-reddit-med-analyzer)
 `Python` `NLP` `Reddit API`
