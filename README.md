@@ -2,7 +2,7 @@
 
 **Data scientist and founder · Australia**
 
-Founder of [Putpad](https://putpad.com.au), by Asiriyar Interactive. Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It teaches through interactive lessons, and a child can interrupt with a question at any moment.
+Founder of [Putpad](https://putpad.com.au), by A Siriyar Interactive. Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It teaches through interactive lessons, and a child can interrupt with a question at any moment.
 
 [LinkedIn](https://www.linkedin.com/in/monish-chezhian/) · [Email](mailto:chezhianmonish@gmail.com)
 
@@ -70,7 +70,7 @@ A few research projects from my time at RMIT:
 
 | Role | Company | Period |
 |------|---------|--------|
-| Founder | Putpad (Asiriyar Interactive) | 2026 – present |
+| Founder | Putpad (A Siriyar Interactive) | 2026 – present |
 | Web Analyst | NJM Group (Australian Bollards), Melbourne | Jul 2023 – Jun 2025 |
 | Junior Analyst | IQ Back Office Inc., Chennai | Feb 2021 – Aug 2022 |
 
