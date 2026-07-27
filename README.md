@@ -2,7 +2,7 @@
 
 **Data scientist and founder · Australia**
 
-Founder of [Putpad](https://putpad.com.au), by Asiriyar Interactive. Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It builds visual lessons live on screen, and a child can interrupt with a question at any moment.
+Founder of [Putpad](https://putpad.com.au), by Asiriyar Interactive. Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It teaches through interactive lessons, and a child can interrupt with a question at any moment.
 
 [LinkedIn](https://www.linkedin.com/in/monish-chezhian/) · [Email](mailto:chezhianmonish@gmail.com)
 
