@@ -1,25 +1,92 @@
-# Monish Chezhian
+# Hey, I'm Monish
 
-Founder of [Putpad](https://putpad.com.au), by Asiriyar Interactive. Melbourne and Sydney, Australia.
+**Data scientist and founder · Australia**
 
-## Putpad
+Founder of [Putpad](https://putpad.com.au), by Asiriyar Interactive. Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It builds visual lessons live on screen, and a child can interrupt with a question at any moment.
 
-Putpad is an AI tutor for children aged 4 to 10 who learn differently, whether that means ADHD, autism or dyslexia. It builds visual lessons live on screen: objects appear, move and connect while a calm voice explains. A child can interrupt with a question at any moment and the lesson picks back up.
+[LinkedIn](https://www.linkedin.com/in/monish-chezhian/) · [Email](mailto:chezhianmonish@gmail.com)
 
-The bet is interactivity. Streamers hold this generation's attention where film never could, because there is a live hope the streamer will read your comment and respond. Putpad makes the same bet for learning. The child, and the adult sitting beside them, can grab the lesson objects and move them, and the lesson responds. It is a shared, manipulable space rather than a video.
+---
 
-Parents and teachers approve every lesson before a child sees it. Sensory blur is adjustable, flashing is blocked in code, and a child can repeat a lesson as many times as they want without shame. It runs in an ordinary web browser, built for phones families already own, and approved lessons replay with no AI calls.
+## A bit about me
 
-The idea has a personal root. Through school my mother sat beside me while I read aloud and asked me questions. At university the material got too complicated for her to sit through, and I felt the difference. Putpad began as the tutor I wished I'd had.
+I hold a Master of Data Science from RMIT University, completed with distinction. Over the past few years I've worked across web analytics, business intelligence, and process automation, mostly finding ways to turn messy data into something that helps people make decisions.
 
-## Background
+Most recently I was a Web Analyst at NJM Group in Melbourne, looking after digital tracking, reporting, and anything data-related across the business. I enjoy the problem-solving side of this work. Building a dashboard from scratch, cleaning up a broken data pipeline, figuring out why the numbers aren't adding up: that part never gets old.
 
-Master of Data Science, RMIT University, with distinction. I have ADHD, which shapes both why I build Putpad and how.
+These days most of my energy goes into Putpad, alongside ongoing work in machine learning, cloud platforms (AWS, Azure), and how AI tools fit into real analytics workflows.
 
-Some public work on this account: [handsfree](https://github.com/mashcthomson/handsfree) (client-side gesture control driving real DOM focus for accessibility), [handspun](https://github.com/mashcthomson/handspun) (a hand-conducted generative instrument, fully in-browser), and [colonium](https://github.com/mashcthomson/colonium) (a multi-browser LLM council for research workflows).
+---
+
+## What I work with
+
+- **Languages and tools:** Python, R, SQL, Power BI, Excel, WordPress
+- **Analytics and data science:** Google Analytics, pandas, scikit-learn, Streamlit, Plotly
+- **Cloud:** AWS, Azure
+
+---
+
+## Projects
+
+### [Cultivara – Crop Recommendation System](https://github.com/mashcthomson/cultivara-crop-recommendation)
+`Python` `Random Forest` `Streamlit`
+
+Built during my RMIT Data Science program to help farmers in Western Australia decide what to grow based on soil and climate data. We reached 92% accuracy with a Random Forest model and shipped a Streamlit app for farmers to use directly. I helped coordinate a team of six through the whole thing, from data wrangling to stakeholder testing.
+
+### [Sustainable Procurement App](https://github.com/mashcthomson/sustainable-procurement-app)
+`Python` `PuLP` `Streamlit` `Plotly`
+
+A Work Integrated Learning project with ACCIONA and RMIT. We built a vendor selection tool using linear programming that optimised for carbon emissions and ESG performance alongside cost. An interactive Plotly dashboard let procurement teams explore trade-offs and export results. I learnt a lot about how sustainability decisions actually get made inside large organisations.
+
+### [Assistive Eye Movement Tech](https://github.com/mashcthomson/assistive-eye-movement-tech)
+`Arduino` `IR Sensors` `Embedded Systems`
+
+My capstone project: a low-cost communication device for paralyzed patients, built with Arduino and IR sensors, letting people express phrases through eye movement alone. It worked, it was affordable, and it compared favourably to camera-based systems at a fraction of the cost. One of the most meaningful things I've built.
+
+### [ADHD Reddit & Medication Analyzer](https://github.com/mashcthomson/adhd-reddit-med-analyzer)
+`Python` `NLP` `Reddit API`
+
+A personal curiosity project. I scraped and analysed Reddit discussions around ADHD medication to find patterns in how people talk about side effects, dosage, and experience. Good practice in NLP, API integration, and working with unstructured text.
+
+### Smaller experiments
+
+- [handsfree](https://github.com/mashcthomson/handsfree) – client-side gesture control driving real DOM focus, built for accessibility
+- [handspun](https://github.com/mashcthomson/handspun) – a hand-conducted generative instrument that runs fully in the browser
+- [colonium](https://github.com/mashcthomson/colonium) – a multi-browser LLM council for research workflows
+
+---
+
+## Research
+
+A few research projects from my time at RMIT:
+
+- **AI for Alzheimer's Detection** – deep learning and chatbot-based screening using multi-modal health data (2024)
+- **Vanadium Flow Batteries** – R dashboards comparing energy efficiency metrics, published on RPubs (2024)
+- **AI for Sustainable Energy Materials** – an AutoML framework for identifying eco-friendly energy storage materials (2024)
+
+---
+
+## Experience
+
+| Role | Company | Period |
+|------|---------|--------|
+| Founder | Putpad (Asiriyar Interactive) | 2026 – present |
+| Web Analyst | NJM Group (Australian Bollards), Melbourne | Jul 2023 – Jun 2025 |
+| Junior Analyst | IQ Back Office Inc., Chennai | Feb 2021 – Aug 2022 |
+
+---
+
+## Outside of work
+
+- **Vice President** – RMIT Occasional Choral Society (ROCS), 2024–2025
+- **Assistant Event Manager** – RMIT Funkadelics Club, 2024
+
+Running events and leading a choral society taught me more about communication and herding people than most coursework did.
+
+---
 
 ## Contact
 
 - [putpad.com.au](https://putpad.com.au)
-- [linkedin.com/company/putpad](https://www.linkedin.com/company/putpad)
+- [linkedin.com/in/monish-chezhian](https://www.linkedin.com/in/monish-chezhian/)
 - chezhianmonish@gmail.com
